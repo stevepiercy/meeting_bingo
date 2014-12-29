@@ -1,7 +1,7 @@
 meeting_bingo
 =============
 
-Read the article `meeting_bingo - meeting_bingo - A stupid Lasso method that
+Read the article `meeting_bingo - A stupid Lasso method that
 generates a BINGO! game card with unique meeting buzzwords
 <http://www.stevepiercy.com/articles/meeting_bingo-a-stupid-lasso-method-that-generates-a-bingo-game-card-with-unique-meeting-buzzwords/>`_.
 
